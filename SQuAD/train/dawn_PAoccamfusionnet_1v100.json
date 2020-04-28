@@ -1,0 +1,15 @@
+{
+    "version": "v1.1",
+    "author": "Ping An Technology Occam Platform",
+    "authorEmail": "QUXIAOYANG343@pingan.com.cn",
+    "framework": "Pytorch v0.3.1",
+    "model": "PA-Occam-FusionNet",
+    "hardware": "1 NVidia Tesla V100",
+    "timestamp": "2020-04-28",
+    "codeURL": "https://github.com/yellowpsyduck/OccamFusionNet",
+    "commitHash": "bafdda07939c6370792c5db2b50bca27729804e2",
+    "misc": {
+        "CUDA version": "9.1",
+        "CuDNN version": "7.1"
+    }
+}
